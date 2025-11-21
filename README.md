@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Karasamyambi Logistics
 
 A comprehensive logistics management system built with React frontend and PHP backend.
@@ -154,3 +155,6 @@ For support, please refer to the documentation or contact the development team.
 
 **Built with ❤️ for Karasamyambi Logistics**
 
+=======
+# definition
+>>>>>>> origin/main
